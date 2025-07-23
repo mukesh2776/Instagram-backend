@@ -1,0 +1,176 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "mukesh_dev",
+      "userProfile": "src/assets/Picture-1.jpg",
+      "imageUrl": "src/assets/Picture-4.jpg",
+      "caption": "Exploring the beauty of nature 🌿",
+      "likes": 120,
+      "likedBy": [
+        "u002",
+        "u003",
+        "u004"
+      ],
+      "comments": [
+        {
+          "commentId": "c001",
+          "userId": "u002",
+          "username": "john_doe",
+          "comment": "Amazing view!",
+          "timestamp": "2025-06-20T08:30:00Z"
+        },
+        {
+          "commentId": "c002",
+          "userId": "u003",
+          "username": "jane_01",
+          "comment": "Where is this place?",
+          "timestamp": "2025-06-20T09:00:00Z"
+        }
+      ],
+      "timestamp": "2025-06-20T08:00:00Z"
+    },
+    {
+      "id": "2",
+      "userId": "u002",
+      "username": "john_doe",
+      "userProfile": "src/assets/Picture-2.jpg",
+      "imageUrl": "src/assets/Picture-5.jpg",
+      "caption": "Coding and coffee ☕💻",
+      "likes": 95,
+      "likedBy": [
+        "u001",
+        "u004"
+      ],
+      "comments": [
+        {
+          "commentId": "c003",
+          "userId": "u001",
+          "username": "mukesh_dev",
+          "comment": "Looks productive!",
+          "timestamp": "2025-06-20T10:30:00Z"
+        }
+      ],
+      "timestamp": "2025-06-20T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "username": "jane_01",
+      "userProfile": "src/assets/Picture-3.jpg",
+      "imageUrl": "src/assets/Picture-6.jpg",
+      "caption": "Sunset vibes by the beach 🌅",
+      "likes": 180,
+      "likedBy": [
+        "u001",
+        "u002",
+        "u004"
+      ],
+      "comments": [
+        {
+          "commentId": "c004",
+          "userId": "u004",
+          "username": "tech_guru",
+          "comment": "Beautiful shot!",
+          "timestamp": "2025-06-20T12:15:00Z"
+        }
+      ],
+      "timestamp": "2025-06-20T12:00:00Z"
+    }
+  ],
+  "profile": {
+    "id": "1",
+    "username": "John_doe",
+    "userProfile": "src/assets/Picture-5.jpg",
+    "profile_pic": "src/assets/Picture-1.jp"
+  },
+  "suggestions": [
+    {
+      "id": "2",
+      "username": "mukesh_dev",
+      "userProfile": "src/assets/Picture-1.jpg"
+    },
+    {
+      "id": "3",
+      "username": "john_doe",
+      "userProfile": "src/assets/Picture-2.jpg"
+    },
+    {
+      "id": "4",
+      "username": "jane_01",
+      "userProfile": "src/assets/Picture-3.jpg"
+    },
+    {
+      "id": "5",
+      "username": "jane",
+      "userProfile": "src/assets/Picture-3.jpg"
+    },
+    {
+      "id": "6",
+      "username": "jane_travel",
+      "userProfile": "src/assets/Picture-3.jpg"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1",
+      "username": "mukesh_dev",
+      "userProfile": "src/assets/Picture-1.jpg",
+      "imageUrl": "/src/assets/Picture-7.jpg",
+      "caption": "Exploring the beauty of nature 🌿",
+      "likes": 120,
+      "likedBy": [
+        "u002",
+        "u003",
+        "u004"
+      ]
+    },
+    {
+      "id": "2",
+      "userId": "u002",
+      "username": "john_doe",
+      "userProfile": "src/assets/Picture-9.jpg",
+      "imageUrl": "/src/assets/Picture-8.jpg",
+      "caption": "Coding and coffee ☕💻",
+      "likes": 95,
+      "likedBy": [
+        "u001",
+        "u004"
+      ]
+    },
+    {
+      "id": "3",
+      "username": "jane_01",
+      "userProfile": "src/assets/Picture-3.jpg",
+      "imageUrl": "/src/assets/Picture-9.jpg",
+      "caption": "Sunset vibes by the beach 🌅",
+      "likes": 180,
+      "likedBy": [
+        "u001",
+        "u002",
+        "u004"
+      ]
+    }
+  ],
+  "followers": [
+    {
+      "id": "3",
+      "username": "john_doe"
+    },
+    {
+      "id": "2",
+      "username": "mukesh_dev"
+    },
+    {
+      "id": "6",
+      "username": "jane_travel"
+    },
+    {
+      "id": "2",
+      "username": "mukesh_dev"
+    },
+    {
+      "id": "2",
+      "username": "mukesh_dev"
+    }
+  ]
+}
