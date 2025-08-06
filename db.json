@@ -3,8 +3,8 @@
     {
       "id": "1",
       "username": "mukesh_dev",
-      "userProfile": "src/assets/Picture-1.jpg",
-      "imageUrl": "src/assets/Picture-4.jpg",
+      "userProfile": "Picture-1.jpg",
+      "imageUrl": "Picture-4.jpg",
       "caption": "Exploring the beauty of nature 🌿",
       "likes": 120,
       "likedBy": [
@@ -34,8 +34,8 @@
       "id": "2",
       "userId": "u002",
       "username": "john_doe",
-      "userProfile": "src/assets/Picture-2.jpg",
-      "imageUrl": "src/assets/Picture-5.jpg",
+      "userProfile": "Picture-2.jpg",
+      "imageUrl": "Picture-5.jpg",
       "caption": "Coding and coffee ☕💻",
       "likes": 95,
       "likedBy": [
@@ -56,8 +56,8 @@
     {
       "id": "3",
       "username": "jane_01",
-      "userProfile": "src/assets/Picture-3.jpg",
-      "imageUrl": "src/assets/Picture-6.jpg",
+      "userProfile": "Picture-3.jpg",
+      "imageUrl": "Picture-6.jpg",
       "caption": "Sunset vibes by the beach 🌅",
       "likes": 180,
       "likedBy": [
@@ -80,42 +80,42 @@
   "profile": {
     "id": "1",
     "username": "John_doe",
-    "userProfile": "src/assets/Picture-5.jpg",
-    "profile_pic": "src/assets/Picture-1.jp"
+    "userProfile": "Picture-5.jpg",
+    "profile_pic": "Picture-1.jp"
   },
   "suggestions": [
     {
       "id": "2",
       "username": "mukesh_dev",
-      "userProfile": "src/assets/Picture-1.jpg"
+      "userProfile": "Picture-1.jpg"
     },
     {
       "id": "3",
       "username": "john_doe",
-      "userProfile": "src/assets/Picture-2.jpg"
+      "userProfile": "Picture-2.jpg"
     },
     {
       "id": "4",
       "username": "jane_01",
-      "userProfile": "src/assets/Picture-3.jpg"
+      "userProfile": "Picture-3.jpg"
     },
     {
       "id": "5",
       "username": "jane",
-      "userProfile": "src/assets/Picture-3.jpg"
+      "userProfile": "Picture-3.jpg"
     },
     {
       "id": "6",
       "username": "jane_travel",
-      "userProfile": "src/assets/Picture-3.jpg"
+      "userProfile": "Picture-3.jpg"
     }
   ],
   "stories": [
     {
       "id": "1",
       "username": "mukesh_dev",
-      "userProfile": "src/assets/Picture-1.jpg",
-      "imageUrl": "src/assets/Picture-7.jpg",
+      "userProfile": "Picture-1.jpg",
+      "imageUrl": "Picture-7.jpg",
       "caption": "Exploring the beauty of nature 🌿",
       "likes": 120,
       "likedBy": [
@@ -128,8 +128,8 @@
       "id": "2",
       "userId": "u002",
       "username": "john_doe",
-      "userProfile": "src/assets/Picture-9.jpg",
-      "imageUrl": "src/assets/Picture-8.jpg",
+      "userProfile": "Picture-9.jpg",
+      "imageUrl": "Picture-8.jpg",
       "caption": "Coding and coffee ☕💻",
       "likes": 95,
       "likedBy": [
@@ -140,8 +140,8 @@
     {
       "id": "3",
       "username": "jane_01",
-      "userProfile": "src/assets/Picture-3.jpg",
-      "imageUrl": "src/assets/Picture-9.jpg",
+      "userProfile": "Picture-3.jpg",
+      "imageUrl": "Picture-9.jpg",
       "caption": "Sunset vibes by the beach 🌅",
       "likes": 180,
       "likedBy": [
